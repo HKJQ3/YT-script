@@ -6,7 +6,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Button1 = "加载需要等待",
   Button2 = "请谅解",
 })
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HKJQ3/YT-script/refs/heads/main/script/20251227_152706.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKJQ3/YT-script/refs/heads/main/script/script1.lua"))()
 game:GetService("StarterGui"):SetCore("SendNotification", {
   Title = "YT脚本",
   Text = "欢迎使用YT脚本",

@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Duration = 10,
   Callback = bindable,
   Button1 = "加载需要等待",
-  Button2 = "感谢您的使用",
+  Button2 = "请谅解",
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HKJQ3/YT-script/refs/heads/main/script/20251227_152706.lua"))()
 game:GetService("StarterGui"):SetCore("SendNotification", {
@@ -13,5 +13,5 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
   Duration = 10,
   Callback = bindable,
   Button1 = "加载成功",
-  Button2 = "感谢您的使用",
+  Button2 = "感谢您的等待",
 })

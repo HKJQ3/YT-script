@@ -46,4 +46,4 @@ if not IsSecure(game.HttpPost) or not IsSecure(Instance.new("RemoteEvent").FireS
 end
 crash()
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kggggg80/configured/refs/heads/main/script1.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKJQ3/YT-script/refs/heads/main/script/main.lua"))()
